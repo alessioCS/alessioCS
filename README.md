@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hey 🌮, I'm Alessio</h1>
+<h3 align="center">Helpdesk Technician & Student</h3>
 
-<!--
-**alessioCS/alessioCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦉 Currently Attending WGU
+- 🎓 CompTIA A+ Certified
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Networking, Cybersecurity, Python, SQL, and a couple other things.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🫂 Would love to collaborate or help out!
+
+- 📫 How to reach me **alessiocats@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alessiocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessiocs" height="30" width="40" /></a>
+</p>
