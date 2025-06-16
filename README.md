@@ -4,7 +4,7 @@
 - 🦉 Currently Attending WGU
 - 🎓 CompTIA A+ Certified
 
-- 🌱 I’m currently learning **Networking, Cybersecurity, Python, SQL, and a couple other things.**
+- 🌱 I’m currently learning **Python, Godot, Web Design, and a couple of other things.**
 
 - 🫂 Would love to collaborate or help out!
 
