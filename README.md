@@ -11,14 +11,14 @@
         <br>
         🎮 <b>Currently building:</b> small Godot projects & dev tools
         <br>
-        💻 <b>Goals:</b> contribute to open-source, grow as a developer, join a community
+        💻 <b>Goal:</b> create meaningful, inclusive games that resonate,<br>raise awareness, and explore important themes
         <br>
         📫 <b>Email:</b> alessiocats@gmail.com
         <br>
         <br>
         ✨ <b>Fun Facts:</b>
         <br>
-        Tea enthusiast, cat, bee, & raccoon lover, weirdo, and <i>secretly a frog!</i>
+        Tea enthusiast, cat, bee, & raccoon lover,<br>weirdo, and <i>secretly a frog!</i>
         <br>
         <i>Also known as GhostInTheRain & Hazey</i>
         <br>
