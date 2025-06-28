@@ -5,24 +5,14 @@
   <table>
     <tr>
       <td>
-        🦉 <b>Currently studying Software Engineering @ WGU</b>
-        <br>
-        🌱 <b>Learning:</b> Godot, Python, Web Design
-        <br>
-        🎮 <b>Currently building:</b> small Godot projects & dev tools
-        <br>
-        💻 <b>Goal:</b> create meaningful, inclusive games that resonate,<br>raise awareness, and explore important themes
-        <br>
-        📫 <b>Email:</b> alessiocats@gmail.com
-        <br>
-        <br>
-        ✨ <b>Fun Facts:</b>
-        <br>
-        Tea enthusiast, cat, bee, & raccoon lover,<br>weirdo, and <i>secretly a frog!</i>
-        <br>
-        <i>Also known as GhostInTheRain & Hazey</i>
-        <br>
-        <br>
+        🦉 <b>Currently studying Software Engineering @ WGU</b><br>
+        🌱 <b>Learning:</b> Godot, Python, Web Design<br>
+        🎮 <b>Currently building:</b> small Godot projects & dev tools<br>
+        💻 <b>Goal:</b> create meaningful, inclusive games that leave an impact,<br>raise awareness, and explore important themes<br>
+        📫 <b>Email:</b> alessiocats@gmail.com<br><br>
+        ✨ <b>Fun Facts:</b><br>
+        Tea enthusiast, cat, bee, & raccoon lover,<br>weirdo, and <i>secretly a frog!</i><br>
+        <i>Also known as GhostInTheRain & Hazey</i><br><br>
         <div align="center">
           <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine"/>
           <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?logo=Renpy&logoColor=fff"/>
