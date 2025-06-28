@@ -18,7 +18,7 @@
         <br>
         ✨ <b>Fun Facts:</b>
         <br>
-        Tea enthusiast, cat & raccoon lover, weirdo, and <i>secretly a frog!</i>
+        Tea enthusiast, cat, bee, & raccoon lover, weirdo, and <i>secretly a frog!</i>
         <br>
         <i>Also known as GhostInTheRain & Hazey</i>
         <br>
